@@ -1,5 +1,5 @@
 # Hi there , I'm Erinow 
-![profile count](https://komarev.com/ghpvc/?username=erinow&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ariscik&color=red)&nbsp;
 [![GitHub Erinow](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/erinow1)&nbsp;
 <a href="https://instagram.com/erinowsocial"><img src="https://img.shields.io/badge/@erinowsocial-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
